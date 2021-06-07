@@ -1,2 +1,3 @@
 # Space Invaders
-![alt text](https://github.com/fibushj/space-invaders/blob/master/media/Screenshot_5.png) <br> <br>
+
+![Alt text](/media/Screenshot_5.png?raw=true "image")
